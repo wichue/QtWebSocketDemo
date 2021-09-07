@@ -1,0 +1,2 @@
+# QtWebSocketDemo
+qt实现WebSocket服务器和客户端，带一个web客户端，实现服务器与客户端的通信
